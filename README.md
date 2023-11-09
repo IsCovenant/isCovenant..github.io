@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html class="no-js" lang="">
 
 <head>
@@ -151,4 +151,3 @@
     </section>
   </footer>
 </body>
-</html>
