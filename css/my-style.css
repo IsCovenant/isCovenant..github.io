@@ -5,6 +5,7 @@ body{
 
 /*Mi foto*/
 section > div > img{
+    border-radius: 40%;
     margin-left: 43%;
     width: 160px;
     height: 180px;
