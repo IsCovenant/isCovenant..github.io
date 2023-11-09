@@ -4,6 +4,10 @@ body{
 }
 
 /*Mi foto*/
+section > div {
+    text-align: center;
+}
+
 section > div > img{
     border-radius: 50%;
     margin-left: 43%;
