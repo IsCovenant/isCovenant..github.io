@@ -1,2 +1,0 @@
-# isCovenant.github.io
-Curriculum
