@@ -122,7 +122,7 @@
             <td><img  class="img-skills" src="img/img-javascript.png" alt="img-javascript"></td>
             <td><img  class="img-skills" src="img/img-solidity.png" alt="img-solidity"></td>
           </tr>  
-          <r> 
+          <tr> 
           <td><img id="skills" class="img-skills" src="img/img-echo.png" alt="Error"></td>
           <td><img id="skills" class="img-skills" src="img/img-echo.png" alt="Error"></td>
             <td><img id="skills" class="img-skills" src="img/img-haciendo.png" alt="Error"></td>
