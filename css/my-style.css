@@ -4,7 +4,7 @@ body{
 }
 
 /*Mi foto*/
-section > div {
+section > div.img-usuario {
     text-align: center;
 }
 
