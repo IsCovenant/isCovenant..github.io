@@ -2,3 +2,10 @@
 body{
     background-color: gray;
 }
+
+/*Mi foto*/
+section > div > img{
+    margin-left: 43%;
+    width: 160px;
+    height: 180px;
+}
