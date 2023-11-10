@@ -137,7 +137,7 @@
           <p>Correo: issergi@outlook.es</p>
         </article>
         <article>
-          <p>GitHub: https: github.com/IsCovenant</p>
+          <p>GitHub: <a href="https:github.com/IsCovenant">My GitHub </a></p>
         </article>
         <article>
           <p>Linkedin: <a href="https://www.linkedin.com/in/sergi-borsot-82b920264/" target="_blank">👉My linkedin👈</a></p>
