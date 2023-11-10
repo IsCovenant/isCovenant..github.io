@@ -40,11 +40,11 @@ section#section1{
     margin-right: 200px;
     border-radius: 15px;
     padding-top: 150px;
-    /*Bacground de primer apartado*/
+    /*Background de primer apartado*/
     background-image: url(../img/borde-section1.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 800px;
+    background-size: 500px;
 }
 
 
