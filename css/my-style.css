@@ -10,7 +10,8 @@ section > div.img-usuario {
 
 section > div > img{
     border-radius: 50%;
-    margin-left: 43%;
+    margin-left: auto;
+    margin-right: auto;
     width: 160px;
     height: 180px;
 }
