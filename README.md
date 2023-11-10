@@ -43,7 +43,6 @@
 </head>
 
 <body>
-  <header>
     <section id="guia">
       <a href="#section1">Developer </a>-
       <a id="about" href="#section2">About </a>-
@@ -51,9 +50,7 @@
       <a id="skillsº" href="#section4">Skills </a>- 
       <a id="contact" href="#section5">Contact </a>
     </section>
-      <div class="img-header">
-        <img src="img/img-escritorio-header.jpeg" alt="La imagen no se puede mostrar" height="500" width="550">
-      </div>
+  <header>
     <h1 class="presentacion">Developer Full Stack</h1>
 
     <!--Seccion 1 de la paguina-->
