@@ -35,18 +35,7 @@ section#guia, section#guia > a{
 }
 
 /*Presentacion*/
-section#section1{
-    height: 750px;
-    margin-left: 200px;
-    margin-right: 200px;
-    border-radius: 15px;
-    padding-top: 150px;
-    /*Background de primer apartado*/
-    background-image: url(../img/borde-section1.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 500px;
-}
+
 
 
 /*Mi foto*/
