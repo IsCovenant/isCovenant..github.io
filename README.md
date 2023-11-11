@@ -62,6 +62,7 @@
           I am a programming enthusiast <br>
            and I like to transform ideas into reality
         </p>
+      </div>
   <main>
 
     <!--Seccion 2 de la paguina-->
