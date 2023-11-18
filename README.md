@@ -55,14 +55,14 @@
 
     <!--Seccion 1 de la paguina-->
     <section class="section1" id="section1">
-      <section class="saludo">
+      <div>
         <p class="">HI, I'm Sergi</p>
         <p>Full Stack developer<h1></h1>
         <p>
           I am a programming enthusiast <br>
            and I like to transform ideas into reality
         </p>
-      </section>
+      </div>
   <main>
 
     <!--Seccion 2 de la paguina-->
