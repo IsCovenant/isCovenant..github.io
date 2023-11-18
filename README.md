@@ -56,7 +56,7 @@
     <!--Seccion 1 de la paguina-->
     <section class="section1" id="section1">
       <div>
-        <p class="">HI, I'm Sergi</p>
+        <p>HI, I'm Sergi</p>
         <p>Full Stack developer<p>
           I am a programming enthusiast
            and I like to transform ideas into reality
