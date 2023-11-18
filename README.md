@@ -59,7 +59,7 @@
         <p class="">HI, I'm Sergi</p>
         <p>Full Stack developer<h1></h1>
         <p>
-          I am a programming enthusiast <br>
+          I am a programming enthusiast
            and I like to transform ideas into reality
         </p>
       </div>
