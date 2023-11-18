@@ -57,8 +57,7 @@
     <section class="section1" id="section1">
       <div>
         <p class="">HI, I'm Sergi</p>
-        <p>Full Stack developer<h1></h1>
-        <p>
+        <p>Full Stack developer<p>
           I am a programming enthusiast
            and I like to transform ideas into reality
         </p>
