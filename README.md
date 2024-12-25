@@ -69,9 +69,6 @@
         <div>
           <h2>About me</h2>
         </div>
-        <div class="img-usuario">
-          <img src="img/img-perfil.png" alt="Foto de el usuario" >
-        </div>
         <p class="description">
           Estoy aprendiendo diferentes tipos de programación como <br>
           Python,Django, JavaScript, HTML5, CSS, MySQL, Solidity. Me gustaría aprender <br>
@@ -134,7 +131,7 @@
     <section class="section5" id="section5">
       <h2>Contact</h2>
         <article>
-          <p>Correo: issergi@outlook.es</p>
+          <p>Correo:</p>
         </article>
         <article>
           <p>GitHub: <a href="https://github.com/IsCovenant">My GitHub </a></p>
