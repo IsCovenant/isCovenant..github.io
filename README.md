@@ -138,7 +138,7 @@
           <p>GitHub: <a href="https://github.com/IsCovenant">My GitHub </a></p>
         </article>
         <article>
-          <p>Linkedin: <a href="https://www.linkedin.com/in/sergi-borsot-82b920264/" target="_blank">👉My linkedin👈</a></p>
+          <p>Linkedin: <a href="" target="_blank">👉My linkedin👈</a></p>
         </article>
     </section>
   </footer>
